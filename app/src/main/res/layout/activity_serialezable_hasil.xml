@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="HASIL SERIALEZABLE"
+        android:text="HASIL SERIALIZABLE"
         android:textColor="@color/black"
         android:textSize="25dp"
         android:textStyle="bold"
